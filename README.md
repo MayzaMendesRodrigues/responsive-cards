@@ -28,6 +28,10 @@ Your contributions are very welcome! If you have ideas or suggestions to improve
 This project is licensed under the MIT License. This license allows the use, copying, modification, and distribution of the code, both for private and commercial projects, as long as the original copy and copyright are included. It is a popular choice for software projects due to its simplicity and flexibility.
 
 ## Contact
-GitHub: MayzaMendesRodrigues
-LinkedIn: Mayza Ynara Mendes Rodrigues
-If you have any questions or suggestions, please do not hesitate to contact me through the links above.**
+- **GitHub**: [MayzaMendesRodrigues](https://github.com/MayzaMendesRodrigues)
+- **LinkedIn**: [Mayza Ynara Mendes Rodrigues](https://www.linkedin.com/in/mayza-ynara-mendes-rodrigues/)
+
+If you have any questions or suggestions, please do not hesitate to contact me through the links above.
+
+
+
